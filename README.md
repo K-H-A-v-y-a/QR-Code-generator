@@ -2,7 +2,7 @@
 It generates QR for the url entered by the user along with a text file containing the URL.
 
 ## Usage
-1. Create your project
+1. Create your project folder and run command to initalize node modules in working dir
 ```
 npm init -y
 ```
